@@ -3,7 +3,7 @@ layout: post
 title: "dwt : 好想让你留下来/qyc : 贴贴我的贴贴，为什么没有贴贴/ll/ll/ll"
 subtitle: 聊天记录体的一次简单尝试。
 tags: 杂项
-author: do_while_true
+author: "do_while_true"
 ---
 
 感觉写的比较短了。
