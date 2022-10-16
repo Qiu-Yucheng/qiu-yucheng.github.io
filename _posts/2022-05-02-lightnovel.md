@@ -1,6 +1,6 @@
 ---
 layout: post
-title: real_我的轻小说
+title: 我的轻小说
 subtitle: qaq
 tags: 主线
 show: true
