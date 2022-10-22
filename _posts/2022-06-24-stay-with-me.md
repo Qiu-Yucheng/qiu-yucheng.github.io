@@ -4,6 +4,7 @@ title: 好想让你留下来
 subtitle: 聊天记录体的一次简单尝试。
 tags: 糖
 author: do_while_true
+show: true
 ---
 
 感觉写的比较短了。
