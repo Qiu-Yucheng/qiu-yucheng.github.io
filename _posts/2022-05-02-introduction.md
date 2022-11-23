@@ -27,9 +27,7 @@ vectorwyx给我赐名 秋语橙，然后就有了陈语秋和邱雨橙两个角�
 
 使用waifulabs生成了面部(并自己修了细节)，然后用stable diffusion生成了剩下的部分，使用的model是anything v3。
 
-![C.png](/img/C.png)
-
-![Q.png](/img/Q.png)
+![D.png](/img/D.png)
 
 前者是陈语秋而后者是邱雨橙。是的我知道陈老师肩过窄，但是懒得修了。感觉邱老师好可爱。
 
