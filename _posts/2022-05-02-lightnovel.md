@@ -11,7 +11,7 @@ noi2023之后
 
 FallDream
 
-bgm : Minaniacal Princess from 东方梦时空
+bgm : Minaniacal Princess(但是想了想觉得恋色Master Spark也很合适呢。)
 
 我输了。D2B挂了70pts，最后排在85名。
 
@@ -35,7 +35,7 @@ involution king
 
 Oranger
 
-bgm : 梦消失 ~ Lost Dream from 东方梦时空
+bgm : 梦消失 ~ Lost Dream
 
 回学校当卷王了。本来应该去准备国家队选拔的，但是比起国家队，我认为显然是FD酱更需要我。
 
@@ -53,7 +53,7 @@ bgm : 梦消失 ~ Lost Dream from 东方梦时空
 
 FallDream
 
-bgm : 永远的巫女 from 东方灵异传
+bgm : 永远的巫女
 
 三模拿到了592pts。
 
@@ -85,7 +85,7 @@ bgm : 永远的巫女 from 东方灵异传
 
 Oranger
 
-bgm : Herselves from 秋霜玉
+bgm : Herselves
 
 几年没有写这个blog了，今天很可能是它的最后一次更新。
 
