@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于如何使用stable diffusion生成轻小说立绘
+title: 关于如何生成轻小说立绘
 subtitle: 怄火
 tags: 杂项
 show: true
@@ -24,7 +24,7 @@ version 4
 
 ![q.png](/img/animation/ver4/q.png)
 
-都非常帅呢。陈老师在选的时候实际上有五个候选，我们犹豫了一下然后我钦点了这个，并手动修了手部。感觉画的比较神。下面是另外四个陈老师，没有修手。
+都非常帅呢。陈老师在选的时候实际上有五个候选，我们犹豫了一下然后我钦点了这个，并手动修了手部。感觉衣服画的比较神。下面是另外四个陈老师，没有修手。
 
 ![ct1.png](/img/animation/ver4/ct1.png)
 
