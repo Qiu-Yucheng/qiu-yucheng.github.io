@@ -12,6 +12,14 @@ show: true
 
 -----
 
+version 5
+
+todo : 生成一张百合图。
+
+因为感觉花语很有趣，加入加拿大冬青(邱老师)和白百合(陈老师)的图案。
+
+-----
+
 version 4
 
 在version 3之上用sd img2img了一下。model是hiten-anything[9b4893ed]。
