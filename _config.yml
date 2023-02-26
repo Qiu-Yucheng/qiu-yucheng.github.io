@@ -102,6 +102,12 @@ friends: [
     },{
         title: "vectorwyx",
         href: "https://www.luogu.com.cn/blog/dream-of-Au/"
+    },{
+        title: "Nr",
+        href: ""
+    },{
+        title: "zythonc",
+        href: "https://github.com/zythonc/"
     }
 ]
 
