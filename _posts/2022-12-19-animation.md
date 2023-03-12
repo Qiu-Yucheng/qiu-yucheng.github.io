@@ -12,6 +12,16 @@ show: true
 
 -----
 
+关于stable diffusion
+
+我一般使用hiten-anything，其hash为a3648a3cee。
+
+我的gpu是rtx3050，显存只有可怜的4g。开启--xformers --medvram --no-half-vae，可以在1280*768下得到3s/it的速度。不加最后一项我这里会玄学爆炸。
+
+如果你的显存像我一样可怜，当你要生成一个可以不是非常细节的图的时候，不要开启--precision full或者--no-half，这会让你的显存需求翻倍，就不得不开--lowvram啦，而--lowvram用过的都知道它是下下策。当你要对着一张图精修的时候，可以尝试--precision full --no-half --lowvram能不能得到更好的效果。
+
+-----
+
 maple dream的背景
 
 ![img](/img/2023-02-24-maple-dream/bg.png)
@@ -22,11 +32,11 @@ img2img。seed在旁边放着。
 
 promot: (masterpiece) (highres:1.3) (extremely detailed:1.2), (windy:1.1), (autumn:1.5) (maple tree graden:1.3), (high saturation:1.3), (high contrast:1.3), (bench:1.5), (2 girls on the bench:1.8) (facing each other:1.5), (flat chest), (jk uniform:1.5), (girlA sitting on the bench and brown hair and blue eyes:1.4) (and staring and tear stains:1.5) (and facing right:1.3), (girlB kneeling on the bench and black eyes and black hair and facing left and smiling:1.4) (and cupping and holding girlA's face:1.6), (side face:1.5), (✋:1.3), (extremely cute:1.5), (extremely detailed cute aqua eyes:1.5)
 
-Negative prompt: (mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2), bad anatomy, liquid body, disfigured, malformed, mutated, anatomical nonsense, error, malformed hands, long neck, blurred, lowers, lowres, bad anatomy, bad proportions, bad shadow, uncoordinated body, unnatural body, bad hands, fused hand, missing hand, disappearing legs, text, ui, error, missing fingers, fused fingers, poorly drawn hands, more than 1 left hand, more than 1 right hand
+negative prompt: (mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2), bad anatomy, liquid body, disfigured, malformed, mutated, anatomical nonsense, error, malformed hands, long neck, blurred, lowers, lowres, bad anatomy, bad proportions, bad shadow, uncoordinated body, unnatural body, bad hands, fused hand, missing hand, disappearing legs, text, ui, error, missing fingers, fused fingers, poorly drawn hands, more than 1 left hand, more than 1 right hand
 
 Steps: 15, Sampler: Euler, CFG scale: 4, Seed: 4182836341, Size: 1280x768, Model hash: a3648a3cee, Denoising strength: 0.95, Mask blur: 0
 
-promot其实是之前乱写的，换了目标之后有地方没有修捏。
+promot其实是之前乱写的，换了生成的目标之后有地方没有修捏。
 
 然后我就大笔一挥题个题目。这就是bg.png.kra所做的。你可以用krita打开它。
 
@@ -36,9 +46,7 @@ version 5
 
 todo : 生成一张百合图。
 
-关于stable diffusion。我的gpu是rtx3050，显存只有可怜的4g。开启--xformers --medvram --no-half-vae，可以在1280*768下得到3s/it的速度。不加最后一项我这里会玄学爆炸。
 
-如果你的显存像我一样可怜，当你要生成一个可以不是非常细节的图的时候，不要开启--precision full或者--no-half，这会让你的显存需求翻倍，就不得不开--lowvram啦，而--lowvram用过的都知道它是下下策。当你要对着一张图精修的时候，可以尝试--precision full --no-half --lowvram能不能得到更好的效果。
 
 -----
 
@@ -70,6 +78,8 @@ version 4
 
 不过这个的真实原因是我把round face的权重搞的太高了导致炸了。
 
+哪天想起来补个promot。
+
 -----
 
 version 3
@@ -88,7 +98,7 @@ version 2
 
 很年轻的时候拿waifulabs跑的，然后ps把背景删了。
 
-我认为邱老师是waifulabs生成过最成功的作品之一。陈老师是技术限制，当时第三版已经生成出来了，但是找不到合适的背景。
+我认为邱老师是waifulabs生成过最成功的作品之一，虽然比起sd还是略逊一筹。陈老师是技术限制，当时第三版已经生成出来了，但是找不到合适的背景。
 
 -----
 
