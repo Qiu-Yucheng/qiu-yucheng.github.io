@@ -5,7 +5,10 @@ subtitle: true ending.
 tags: 主线
 author: ShanLunjiaJian
 show: true
+header-img: img/2023-02-24-maple-dream/bg.png
 ---
+
+背景图感觉很有ai的风格，并因此莫名的切题。
 
 因为日出之梦那一篇里面想到了一个牛逼idea，但是觉得放在那里面比较违和，就单独拿出来写成新的线。
 
@@ -295,4 +298,14 @@ D0。邱老师得到了发胸牌的工作。整理胸牌的时候，3省的选�
 qtree7是经典lct题捏。
 
 -----
+
+bgm : 明日的绿水青山 ~ Iridescent Faith
+
+> 我总是想写出动人心弦的旋律，结果到最后感动的只有自己。
+
+根据某些惯例，文章最后应该把背景图再放一遍，所以
+
+![img](/img/2023-02-24-maple-dream/bg.png)
+
+你可以在github仓库，这张图的同一路径的readme.md看到这张图具体如何生成。
 
