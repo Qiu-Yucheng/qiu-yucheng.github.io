@@ -1,12 +1,10 @@
 ---
 layout: post
-title: 关于如何生成轻小说立绘
+title: 关于如何生成轻小说立绘和插图
 subtitle: 怄火
 tags: 杂项
 show: true
 ---
-
-有四版，按时间倒序放在这里。
 
 没有放的图，可以去/img/animation下面找。
 
@@ -22,37 +20,29 @@ show: true
 
 -----
 
+关于waifulabs
+
+比起sd还是拉。但是如果你在sd这方面没有博览群model的txt2img，waifulabs可能可以给sd一些灵感。
+
+-----
+
 maple dream的背景
 
 ![img](/img/2023-02-24-maple-dream/bg.png)
 
 这是我在为oωo那篇生成背景图的过程中随出来的。感觉很好看所以拿来用了。
 
-img2img。seed在旁边放着。
+-----
 
-promot: (masterpiece) (highres:1.3) (extremely detailed:1.2), (windy:1.1), (autumn:1.5) (maple tree graden:1.3), (high saturation:1.3), (high contrast:1.3), (bench:1.5), (2 girls on the bench:1.8) (facing each other:1.5), (flat chest), (jk uniform:1.5), (girlA sitting on the bench and brown hair and blue eyes:1.4) (and staring and tear stains:1.5) (and facing right:1.3), (girlB kneeling on the bench and black eyes and black hair and facing left and smiling:1.4) (and cupping and holding girlA's face:1.6), (side face:1.5), (✋:1.3), (extremely cute:1.5), (extremely detailed cute aqua eyes:1.5)
+oωo
 
-negative prompt: (mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2), bad anatomy, liquid body, disfigured, malformed, mutated, anatomical nonsense, error, malformed hands, long neck, blurred, lowers, lowres, bad anatomy, bad proportions, bad shadow, uncoordinated body, unnatural body, bad hands, fused hand, missing hand, disappearing legs, text, ui, error, missing fingers, fused fingers, poorly drawn hands, more than 1 left hand, more than 1 right hand
-
-Steps: 15, Sampler: Euler, CFG scale: 4, Seed: 4182836341, Size: 1280x768, Model hash: a3648a3cee, Denoising strength: 0.95, Mask blur: 0
-
-promot其实是之前乱写的，换了生成的目标之后有地方没有修捏。
-
-然后我就大笔一挥题个题目。这就是bg.png.kra所做的。你可以用krita打开它。
+在做了。生成两个人很困难。
 
 -----
 
-version 5
+立绘 version 4
 
-todo : 生成一张百合图。
-
-
-
------
-
-version 4
-
-在version 3之上用sd img2img了一下。model是hiten-anything[9b4893ed]。
+在version 3之上用sd img2img了一下。
 
 下面是陈老师。
 
@@ -82,7 +72,7 @@ version 4
 
 -----
 
-version 3
+立绘 version 3
 
 使用waifulabs生成了面部(并自己修了细节)，然后用stable diffusion生成了剩下的部分，使用的model是anything v3。
 
@@ -94,7 +84,7 @@ version 3
 
 -----
 
-version 2
+立绘 version 2
 
 很年轻的时候拿waifulabs跑的，然后ps把背景删了。
 
@@ -102,6 +92,6 @@ version 2
 
 -----
 
-version 1
+立绘 version 1
 
 更年轻的时候拿waifulabs跑的。那时候感觉我的风格跟现在可能不太一样呢。
