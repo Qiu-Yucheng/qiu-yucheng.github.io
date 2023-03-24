@@ -111,9 +111,9 @@ friends: [
     }
 ]
 
-#gitalk_enable: true
-#gitalk_client_id: '06b7efda61742d7e5a44'
-#gitalk_client_secret: '297d5ae3c7558d570bc3deead920d58ad298c302'
-#gitalk_repo: 'qiu-yucheng.github.io'
-#gitalk_owner: 'Qiu-Yucheng'
-#gitalk_admin: ['ShanLunjiaJian','do-while-true','vectorwyx']
+gitalk_enable: true
+gitalk_client_id: '144fa6e58351651d88da'
+gitalk_client_secret: 'becae6b18cf7fd217e5bc012b33fa3eb847e18d1'
+gitalk_repo: 'qiu-yucheng.github.io'
+gitalk_owner: 'Qiu-Yucheng'
+gitalk_admin: ['Qiu-Yucheng','ShanLunjiaJian']
