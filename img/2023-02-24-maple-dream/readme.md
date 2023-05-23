@@ -2,7 +2,7 @@
 
 这是我在为oωo那篇生成背景图的过程中随出来的。感觉很好看所以拿来用了。
 
-img2img。seed在旁边放着。
+img2img。我之前放过seed，但是删除了。
 
 promot: (masterpiece) (highres:1.3) (extremely detailed:1.2), (windy:1.1), (autumn:1.5) (maple tree graden:1.3), (high saturation:1.3), (high contrast:1.3), (bench:1.5), (2 girls on the bench:1.8) (facing each other:1.5), (flat chest), (jk uniform:1.5), (girlA sitting on the bench and brown hair and blue eyes:1.4) (and staring and tear stains:1.5) (and facing right:1.3), (girlB kneeling on the bench and black eyes and black hair and facing left and smiling:1.4) (and cupping and holding girlA's face:1.6), (side face:1.5), (✋:1.3), (extremely cute:1.5), (extremely detailed cute aqua eyes:1.5)
 
