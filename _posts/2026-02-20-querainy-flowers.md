@@ -3,6 +3,7 @@ layout: post
 title: 曲儿集
 subtitle: 曲儿爱你！！
 tags: 
+show: true
 ---
 
 这是我各处作品的不是特别全的全集，在这个网站上已经收录的用超链接索引，这个网站上的并不都在这里被收录了。
@@ -1503,7 +1504,7 @@ _为了第二届魔怔杯写的。我觉得写的不好其实_
 这是关于47号元素银的单质和空气中的氧气、硫化氢反应的故事。
 
 $$
-\mathrm{4 Ag + O_2 + 2 H_2S\xlongequal{time} 2Ag_2S+2H_2O}
+\mathrm{4 Ag + O_2 + 2 H_2S\stackrel{time}{=} 2Ag_2S+2H_2O}
 $$
 
 -----
